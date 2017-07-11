@@ -1,2 +1,12 @@
-theme: jekyll-theme-time-machine
-title: Jessica Gomes
+# Site settings
+title: Jessica's Blog
+email: jessica.s.gomes123@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my site, I hope you enjoy it!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jessiegomes.github.io" # the base hostname & protocol for your site
+twitter_username: jessgomes
+github_username:  jessiegomes
+
+# Build settings
+markdown: kramdown
