@@ -30,39 +30,10 @@
 <!-- BODY -->
 <body id="post-index">
     {% include browser-upgrade.html %}
-    
+
+    <!-- MAIN -->
     <div id="main" role="main">
-        <article class="hentry">
-
-            <!-- MAIN -->
-            <h1 class="entry-title">
-                <a>{{ page.title }}</a>
-            </h1>
-
-            <!-- POST CONTENT -->
-            <div class="entry-content">
-                {{ page.content }}
-            </div>
-
-            <!--- DIVIDING LINE -->
-            <hr>
-
-            <!-- POST TAGS -->
-            <div class="inline-tags">
-                <span>
-                    {% for tag in page.tags %}
-                        <a href="/tags/#{{tag}}">#{{ tag }}&nbsp;&nbsp;&nbsp;</a>
-                    {% endfor %}
-                </span>
-            </div>
-
-            <br>
-
-            <!-- POST DATE -->
-            <div class="post-date">
-                {{ page.date-string }}
-            </div>
-        </article>
+      {{ content }}
     </div>
 </body>
 
