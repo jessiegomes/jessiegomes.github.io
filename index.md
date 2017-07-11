@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
+#Welcome!
+##*Hope you're doing really well, I hope you'll find it interesting*
 
-	<head>
-		<title> Jessica Gomes </title>
-	</head>
-
-	<body>
-		<h1> Welcome! </h1>
-		<p> Hope you're doing really well! </p>
-	</body>
-</html>
