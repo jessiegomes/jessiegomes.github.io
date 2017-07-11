@@ -1,3 +1,4 @@
+
 # Site settings
 title: Jessica's Blog
 email: jessica.s.gomes123@gmail.com
@@ -10,3 +11,4 @@ github_username:  jessiegomes
 
 # Build settings
 markdown: kramdown
+
