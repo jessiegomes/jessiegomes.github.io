@@ -542,8 +542,8 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			.button.special:hover {
-				background: # fcd48a!important;
-				border-color: #fcd48a !important;
+				background: # 96dad1!important;
+				border-color: #96dad1 !important;
 			}
 
 		input[type="button"].fit,
