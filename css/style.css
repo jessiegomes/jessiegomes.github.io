@@ -532,9 +532,10 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #f7ae31;
+			border-color: #f7ae31;
 			color: white !important;
+			opacity: 0.85
 		}
 
 			input[type="button"].special:hover,
