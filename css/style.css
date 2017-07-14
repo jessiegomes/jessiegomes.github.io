@@ -552,6 +552,7 @@
 		input[type="reset"].fit,
 		.button.fit {
 			width: 100%;
+			font-size: inherit;
 		}
 
 		input[type="button"].small,
