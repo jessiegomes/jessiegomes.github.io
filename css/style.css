@@ -128,7 +128,7 @@
 			border-top: solid 1.5px;
 			content: '';
 			height: 7px;
-			opacity: 0.1;
+			opacity: 0.25;
 			position: absolute;
 			top: 1.75em;
 			width: 43%;
@@ -157,14 +157,14 @@
 			left: 0;
 			position: absolute;
 			text-align: center;
-			top: -0.5em;
+			top: 0.5em;
 			width: 100%;
 			color: #ff7c93
 		}
 
 			header.special .icon:before {
-				font-size: 5.0em;
-				opacity: 0.95;
+				font-size: 5.5em;
+				opacity: 0.70;
 			}
 
 	footer > :last-child {
