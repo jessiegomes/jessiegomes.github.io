@@ -157,13 +157,14 @@
 			left: 0;
 			position: absolute;
 			text-align: center;
-			top: 1em;
+			top: -0.5em;
 			width: 100%;
+			color: #ff7c93
 		}
 
 			header.special .icon:before {
-				font-size: 3.5em;
-				opacity: 0.35;
+				font-size: 5.0em;
+				opacity: 0.95;
 			}
 
 	footer > :last-child {
